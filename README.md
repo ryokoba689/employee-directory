@@ -5,6 +5,7 @@
 * As a user, I want to be able to view my entire employee directory at once so that I have quick access to their information.
 ## Description
 This application was created to Create an emloyee directory for emloyers to be able to sort and organize their emloyee directory <br />
+![alt text](https://raw.githubusercontent.com/ryokoba689/employee-directory/main/public/employeedirectory.PNG)
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
